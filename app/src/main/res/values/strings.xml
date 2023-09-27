@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">pertemuan-7</string>
+
+    <!-- Array of Months -->
+    <array name="months_array">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </array>
+
+    <!-- Array of Attendance Options -->
+    <array name="attendance_options_array">
+        <item>Hadir tepat waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </array>
+
+    <string name="tanggal_kosong">Tanggal tidak boleh kosong!</string>
+    <string name="waktu_kosong">Waktu tidak boleh kosong!</string>
+    <string name="keterangan_kosong">Keterangan tidak boleh kosong!</string>
+    <string name="presensi_berhasil">Presensi Berhasil</string>
+</resources>
